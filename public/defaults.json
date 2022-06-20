@@ -1,0 +1,31 @@
+{
+    "clear!": {
+        "resourceId": "artifact:1150513214480450500"
+    },
+    "left!": {
+        "resourceId": "artifact:1150513195203429312",
+        "menuRotation": {
+            "x": 0,
+            "y": 0,
+            "z": 90
+        },
+        "menuScale": {
+            "x": 4,
+            "y": 4,
+            "z": 4
+        }
+    },
+    "right!": {
+        "resourceId": "artifact:1150513195203429312",
+        "menuRotation": {
+            "x": 0,
+            "y": 0,
+            "z": 270
+        },
+        "menuScale": {
+            "x": 4,
+            "y": 4,
+            "z": 4
+        }
+    }
+}
