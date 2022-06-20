@@ -1,11 +1,11 @@
 # How to install Craver
 - Option #1:
     - Goto https://account.altvr.com/mres, click "Create"
-    - Paste in the URL: `ws://kraver.heroku.com`
+    - Paste in the URL: `wss://kraver.heroku.com`
     - Click "Create"
 - Options #2:
     - Goto World Editor, Mine, SDK Apps
-    - Paste in the URL: `ws://kraver.heroku.com`
+    - Paste in the URL: `wss://kraver.heroku.com`
     - Click "Confirm"
 
 # How to use Craver
